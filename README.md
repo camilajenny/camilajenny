@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kamil</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A passionate backend developer from 🇵🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banan314&label=Profile%20views&color=0e75b6&style=flat" alt="banan314" /> </p>
 
