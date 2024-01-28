@@ -11,6 +11,8 @@
 
 - 😄 Pronouns: they/them
 
+- 🗺️ Website: [https://banan314.github.io](https://banan314.github.io/index.html)
+
 - 📫 How to reach me **kamil.lopuszanski@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's cube blindfold**
