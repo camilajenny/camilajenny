@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamil-lopuszanski-87035b101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-lopuszanski-87035b101" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7769052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7769052" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7769052/banan314"><img src="https://stackoverflow.com/users/flair/7769052.png" width="208" height="58" alt="profile for banan3&#39;14 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for banan3&#39;14 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
