@@ -1,15 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Kamil</h1>
-<h3 align="center">A passionate backend developer from 🇵🇱</h3>
+<h3 align="center">A passionate backend developer living in 🇪🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banan314&label=Profile%20views&color=0e75b6&style=flat" alt="banan314" /> </p>
 
-- 🌱 I’m currently learning **about Software Architecture**
+- 🌱 I’m currently learning **presentation skills, Spanish**
 
 - 👨‍💻 All of my projects are available at [https://github.com/banan314](https://github.com/banan314)
 
-- 💬 Ask me about **java, spring**
-
-- 😄 Pronouns: they/them
+- 💬 Ask me about **Java, Spring Boot**
 
 - 🗺️ Website: [https://banan314.github.io](https://banan314.github.io/index.html)
 
