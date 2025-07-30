@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Spring Boot**
 
-- 🗺️ Website: [https://camilajenny.github.io](https://camilajenny.github.io/index.html)
+- 🗺️ Website: [https://camilajenny.com/](https://camilajenny.com/)
 
 - 📫 How to reach me **kamil.lopuszanski@gmail.com**
 
